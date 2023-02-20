@@ -14,4 +14,6 @@ My Name is Jareth Beeler. I am Master's Student in the [Forestry, Wildlife, and 
 
 
 
-![](https://tenor.com/4flA.gif)
+![][def]
+
+[def]: https://tenor.com/4flA.gif
