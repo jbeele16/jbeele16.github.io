@@ -14,6 +14,6 @@ My Name is Jareth Beeler. I am Master's Student in the [Forestry, Wildlife, and 
 
 
 
-![][def]
+<iframe src="https://giphy.com/embed/pAoAkPVUb3Mg8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/orange-stuck-flap-pAoAkPVUb3Mg8">via GIPHY</a></p>
 
-[def]: https://tenor.com/4flA.gif
+
