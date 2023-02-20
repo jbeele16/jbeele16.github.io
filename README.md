@@ -3,10 +3,10 @@
 
 My Name is Jareth Beeler. I am Master's Student in the [Forestry, Wildlife, and Fisheries](https://naturalresources.tennessee.edu/) Department at the[ University of Tennessee, Knoxville](https://www.utk.edu/). 
 
-##Education
+## Education
 Bachelors of Science in Forestry, Resource Management; Minor in Geographic Information Systems. 
 
-##Projects
+## Projects
 Master's Research:
 Effects of managing East Tennessee forests for both timber and carbon sequestration payments: management and ownership concerns on prolonged rotation length, species composition, and wood products output. 
 
